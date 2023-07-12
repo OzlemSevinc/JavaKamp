@@ -1,6 +1,6 @@
 public class ArraysDemo {
     public static void main(String[] args) {
-        String ogrenci1 = "Engin";
+        String ogrenci1 = "Ali";
         String ogrenci2 = "Derin";
         String ogrenci3 = "Salih";
         String ogrenci4 = "Ahmet";
@@ -15,7 +15,7 @@ public class ArraysDemo {
         System.out.println("---------------");
 
         String [] ogrenciler = new String[4];
-        ogrenciler[0]= "Engin";
+        ogrenciler[0]= "Ali";
         ogrenciler[1]= "Derin";
         ogrenciler[2]= "Salih";
         ogrenciler[3]= "Ahmet";
